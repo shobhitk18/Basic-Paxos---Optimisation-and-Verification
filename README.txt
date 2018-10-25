@@ -1,12 +1,4 @@
 
-						ASSIGNMENT No. 4(CSE-535)
-						Due : 22nd October
-		
-SUBMISSION DETAILS:					 
-	Name : Shobhit Khandelwal
-	SBU ID: 112074908
-
-
 BRIEF:
 
 Project Directory:
