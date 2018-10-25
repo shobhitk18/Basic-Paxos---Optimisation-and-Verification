@@ -69,10 +69,6 @@ Note: PLEASE DON'T REMOVE THE FILE "temp.csv" GENERATED DURING THE RUN
 
 
 
-#************************QUESTION1 and QUESTION2 ANSWERS ***************************
-Answers to Quest 1 and Quest 2 are present in "Assignment4_ans.docx" file
-
-
 
 ********************************Observations**************************************
 1.As the loss rate goes above 0.5 the system is mostly timing out due to not able to achieve consensus
